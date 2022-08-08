@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Working on **Ai and Ml projects**
 
-- 🌱 I’m currently learning **Ai and Machine learning**
+- 🌱 I’m currently learning **Ai and Machine learning releated topics**
 
 - 📫 You can reach me through email at - **shinoyyandra17@gmail.com**
 
