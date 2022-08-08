@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, I'm Shinoy Yandra</h1>
-<h3 align="center">I'm a student currently doing my B.Tech in Computer Science and Technology with specialization in Artificial Intelligence at Amrita School of Engineering, Kerala</h3>
+<h3 align="center">I'm a student currently doing my B.Tech in Computer Science and Technology with specialization in Artificial Intelligence at Amrita School of Engineering, Kerala.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinoy17&label=Profile%20views&color=0e75b6&style=flat" alt="shinoy17" /> </p>
 
 - 🔭 I’m currently Working on **Ai and Ml projects**
 
-- 🌱 I’m currently learning **Ai and Machine learning releated topics**
+- 🌱 I’m currently learning **Ai and Machine learning related topics**
 
 - 📫 You can reach me through email at - **shinoyyandra17@gmail.com**
 
